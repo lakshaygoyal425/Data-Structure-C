@@ -15,7 +15,7 @@ Data Structures
 │   └── Insert at End.cpp                      # Insert Data at ending in Linked List
 │   └── Insert at Middle.cpp                   # Insert Data at any position in Linked List
 │   └── Delete first node.cpp                  # Delete Data from first node in Linked List
-│   └── Insert at End.cpp                      # Delete Data from last node in Linked List
+│   └── Delete at End.cpp                      # Delete Data from last node in Linked List
 ├── Stack Programs
 │   └── Stack.cpp                # stack implementation
 ```
